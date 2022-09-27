@@ -1,0 +1,6 @@
+venv
+*.pyc
+db.sqlite3
+htmlcov
+.coverage
+secret_key.json
